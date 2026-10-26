@@ -1,0 +1,7 @@
+{
+    "name": "atk/inventory",
+    "description": "Sistem Informasi Inventory Gudang ATK",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
